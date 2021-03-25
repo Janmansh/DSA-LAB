@@ -1,0 +1,2 @@
+# Q1
+Write a C/C++ to perform advanced sorting techniques like quick and merge sorts on an array of structures. Perform the above sorting operations by implementing a menu with sort as options and sort it in ascending order.
